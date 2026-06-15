@@ -154,25 +154,25 @@ Taddaa includes:
 
 ### Login Page
 
-![Login Page](./screenshots/Login%20Page.png)
+<img width="1366" height="682" alt="Login Page" src="https://github.com/user-attachments/assets/dc7dab69-7bd3-4e44-9ee2-9612a1ddacb9" />
 
 ---
 
 ### Dark Mode Dashboard
 
-![Dark Mode](./screenshots/UI%20Interface%20\(Dark%20Mode\).png)
+<img width="1366" height="681" alt="UI Interface (Dark Mode)" src="https://github.com/user-attachments/assets/e1281cd3-2a9f-4bdf-b192-343599acd337" />
 
 ---
 
 ### Light Mode Dashboard
 
-![Light Mode](./screenshots/UI%20Interface%20\(Light%20Mode\).png)
+<img width="1366" height="681" alt="UI Interface (Light Mode)" src="https://github.com/user-attachments/assets/31a8947c-a913-4f60-8a47-96c315fd5987" />
 
 ---
 
 ### AI Assistant (General Questions)
 
-![Normal AI](./screenshots/Result%20\(Normal%20AI\).png)
+<img width="1366" height="682" alt="Result (Normal AI)" src="https://github.com/user-attachments/assets/c01e12c8-adea-4193-9a0a-865c04dbc782" />
 
 ---
 
@@ -186,7 +186,8 @@ Add Bindhi in Veg Folder
 
 AI automatically identifies the folder and performs the requested action.
 
-![Agentic AI](./screenshots/Result%20\(Agentic%20AI\).png)
+<img width="1366" height="683" alt="Result (Agentic AI)" src="https://github.com/user-attachments/assets/36a8ed81-12bd-4bca-a69f-199a74e3bbf6" />
+
 
 ---
 
