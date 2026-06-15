@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: todo-agent
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    disk:
+      name: todo-db-volume
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: DB_PATH
+        value: /var/data/db.json
+      - key: OPENAI_API_KEY
+        sync: false
