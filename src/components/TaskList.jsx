@@ -115,6 +115,10 @@ export default function TaskList({ todos, folders, selectedFolderId, onToggleCom
           <option value="weekly">🔁 Weekly</option>
           <option value="monthly">🔁 Monthly</option>
         </select>
+
+        <button type="submit" className="btn-add-todo">
+          Add
+        </button>
       </form>
 
       {/* Tasks Table/List */}
