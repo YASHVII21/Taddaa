@@ -1,0 +1,291 @@
+{
+  "folders": [
+    {
+      "id": "folder-college",
+      "name": "College work",
+      "createdAt": "2026-06-14T08:52:37.643Z",
+      "userId": "user-default"
+    },
+    {
+      "id": "folder-parttime",
+      "name": "Part time",
+      "createdAt": "2026-06-14T08:52:37.644Z",
+      "userId": "user-default"
+    },
+    {
+      "id": "folder-daily",
+      "name": "Daily work",
+      "createdAt": "2026-06-14T08:52:37.644Z",
+      "userId": "user-default"
+    },
+    {
+      "id": "folder-college-user-1781429874755-c0sfhohxu",
+      "name": "College work",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "createdAt": "2026-06-14T09:37:54.758Z"
+    },
+    {
+      "id": "folder-parttime-user-1781429874755-c0sfhohxu",
+      "name": "Part time",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "createdAt": "2026-06-14T09:37:54.758Z"
+    },
+    {
+      "id": "folder-daily-user-1781429874755-c0sfhohxu",
+      "name": "Daily work",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "createdAt": "2026-06-14T09:37:54.758Z"
+    },
+    {
+      "id": "folder-1781433277958-aym7ing18",
+      "name": "Fruits",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "createdAt": "2026-06-14T10:34:37.958Z"
+    },
+    {
+      "id": "folder-college-user-1781433926149-pjll2ceul",
+      "name": "College work",
+      "userId": "user-1781433926149-pjll2ceul",
+      "createdAt": "2026-06-14T10:45:26.150Z"
+    },
+    {
+      "id": "folder-parttime-user-1781433926149-pjll2ceul",
+      "name": "Part time",
+      "userId": "user-1781433926149-pjll2ceul",
+      "createdAt": "2026-06-14T10:45:26.150Z"
+    },
+    {
+      "id": "folder-daily-user-1781433926149-pjll2ceul",
+      "name": "Daily work",
+      "userId": "user-1781433926149-pjll2ceul",
+      "createdAt": "2026-06-14T10:45:26.150Z"
+    },
+    {
+      "id": "folder-1781435053071-i76agtixb",
+      "name": "Groceries",
+      "userId": "user-1781433926149-pjll2ceul",
+      "createdAt": "2026-06-14T11:04:13.071Z"
+    },
+    {
+      "id": "folder-1781440374645-l36cm1h23",
+      "name": "UNI",
+      "userId": "user-1781433926149-pjll2ceul",
+      "createdAt": "2026-06-14T12:32:54.645Z"
+    },
+    {
+      "id": "folder-1781440797057-qf3y52fu1",
+      "name": "Veg",
+      "userId": "user-1781433926149-pjll2ceul",
+      "createdAt": "2026-06-14T12:39:57.057Z"
+    }
+  ],
+  "todos": [
+    {
+      "id": "todo-1781434781694-gxw8y3nkw",
+      "title": "Apple",
+      "completed": false,
+      "folderId": "folder-1781433277958-aym7ing18",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "recurrenceRuleId": null,
+      "createdAt": "2026-06-14T10:59:41.694Z"
+    },
+    {
+      "id": "todo-1781434781696-p9l44qq1g",
+      "title": "banana",
+      "completed": false,
+      "folderId": "folder-1781433277958-aym7ing18",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "recurrenceRuleId": null,
+      "createdAt": "2026-06-14T10:59:41.696Z"
+    },
+    {
+      "id": "todo-spawned-1781434781700-twwrblvhs",
+      "title": "taking medicine",
+      "completed": false,
+      "folderId": null,
+      "userId": "user-1781429874755-c0sfhohxu",
+      "recurrenceRuleId": "rule-1781434781698-qesjosime",
+      "createdAt": "2026-06-14T10:59:41.700Z"
+    },
+    {
+      "id": "todo-spawned-1781435051649-uq8qrsz8w",
+      "title": "Going for run",
+      "completed": false,
+      "folderId": null,
+      "userId": "user-1781433926149-pjll2ceul",
+      "recurrenceRuleId": "rule-1781435051647-qpge70y80",
+      "createdAt": "2026-06-14T11:04:11.649Z"
+    },
+    {
+      "id": "todo-1781435054960-jljtoppqa",
+      "title": "Soap",
+      "completed": false,
+      "folderId": "folder-1781435053071-i76agtixb",
+      "userId": "user-1781433926149-pjll2ceul",
+      "recurrenceRuleId": null,
+      "createdAt": "2026-06-14T11:04:14.960Z"
+    },
+    {
+      "id": "todo-1781435056865-kt7fuufx2",
+      "title": "Detergent",
+      "completed": false,
+      "folderId": "folder-1781435053071-i76agtixb",
+      "userId": "user-1781433926149-pjll2ceul",
+      "recurrenceRuleId": null,
+      "createdAt": "2026-06-14T11:04:16.865Z"
+    },
+    {
+      "id": "todo-1781435058530-729eaktvj",
+      "title": "Bodywash",
+      "completed": false,
+      "folderId": "folder-1781435053071-i76agtixb",
+      "userId": "user-1781433926149-pjll2ceul",
+      "recurrenceRuleId": null,
+      "createdAt": "2026-06-14T11:04:18.530Z"
+    },
+    {
+      "id": "todo-1781440376702-xl882vb7u",
+      "title": "ASS - 1",
+      "completed": false,
+      "folderId": "folder-1781440374645-l36cm1h23",
+      "userId": "user-1781433926149-pjll2ceul",
+      "recurrenceRuleId": null,
+      "createdAt": "2026-06-14T12:32:56.702Z"
+    },
+    {
+      "id": "todo-spawned-1781440378448-keqhwxxau",
+      "title": "Electricity bill",
+      "completed": false,
+      "folderId": null,
+      "userId": "user-1781433926149-pjll2ceul",
+      "recurrenceRuleId": "rule-1781440378445-ui69cyfmz",
+      "createdAt": "2026-06-14T12:32:58.448Z"
+    },
+    {
+      "id": "todo-spawned-1781515720231-ev9ofy8v2",
+      "title": "Going for run",
+      "completed": false,
+      "folderId": null,
+      "userId": "user-1781433926149-pjll2ceul",
+      "recurrenceRuleId": "rule-1781435051647-qpge70y80",
+      "createdAt": "2026-06-15T09:28:40.231Z"
+    },
+    {
+      "id": "todo-spawned-1781518099989-a60pajdrs",
+      "title": "Go for a run",
+      "completed": false,
+      "folderId": null,
+      "userId": "user-1781429874755-c0sfhohxu",
+      "recurrenceRuleId": "rule-1781430094207-s6w7gwcuq",
+      "createdAt": "2026-06-15T10:08:19.989Z"
+    },
+    {
+      "id": "todo-spawned-1781518099989-mbxve8dh6",
+      "title": "eatting breakfast",
+      "completed": false,
+      "folderId": null,
+      "userId": "user-1781429874755-c0sfhohxu",
+      "recurrenceRuleId": "rule-1781433703125-2gzap9uoa",
+      "createdAt": "2026-06-15T10:08:19.989Z"
+    },
+    {
+      "id": "todo-spawned-1781518099989-y5xdg4ard",
+      "title": "taking medicine",
+      "completed": false,
+      "folderId": null,
+      "userId": "user-1781429874755-c0sfhohxu",
+      "recurrenceRuleId": "rule-1781434781698-qesjosime",
+      "createdAt": "2026-06-15T10:08:19.989Z"
+    },
+    {
+      "id": "todo-spawned-1781518127481-0t4d1sw07",
+      "title": "Morning exercise",
+      "completed": false,
+      "folderId": "folder-daily",
+      "userId": "user-default",
+      "recurrenceRuleId": "rule-1",
+      "createdAt": "2026-06-15T10:08:47.481Z"
+    }
+  ],
+  "recurrenceRules": [
+    {
+      "id": "rule-1",
+      "title": "Morning exercise",
+      "folderId": "folder-daily",
+      "frequency": "daily",
+      "lastSpawnedDate": "2026-06-15",
+      "userId": "user-default"
+    },
+    {
+      "id": "rule-2",
+      "title": "Pay monthly electricity bill",
+      "folderId": null,
+      "frequency": "monthly",
+      "lastSpawnedDate": "2026-06-14",
+      "userId": "user-default"
+    },
+    {
+      "id": "rule-1781430094207-s6w7gwcuq",
+      "title": "Go for a run",
+      "folderId": null,
+      "frequency": "daily",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "lastSpawnedDate": "2026-06-15"
+    },
+    {
+      "id": "rule-1781433703125-2gzap9uoa",
+      "title": "eatting breakfast",
+      "folderId": null,
+      "frequency": "daily",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "lastSpawnedDate": "2026-06-15"
+    },
+    {
+      "id": "rule-1781434781698-qesjosime",
+      "title": "taking medicine",
+      "folderId": null,
+      "frequency": "daily",
+      "userId": "user-1781429874755-c0sfhohxu",
+      "lastSpawnedDate": "2026-06-15"
+    },
+    {
+      "id": "rule-1781435051647-qpge70y80",
+      "title": "Going for run",
+      "folderId": null,
+      "frequency": "daily",
+      "userId": "user-1781433926149-pjll2ceul",
+      "lastSpawnedDate": "2026-06-15"
+    },
+    {
+      "id": "rule-1781440378445-ui69cyfmz",
+      "title": "Electricity bill",
+      "folderId": null,
+      "frequency": "monthly",
+      "userId": "user-1781433926149-pjll2ceul",
+      "lastSpawnedDate": "2026-06-14"
+    }
+  ],
+  "config": {
+    "lastChecked": "2026-06-15T10:31:23.391Z"
+  },
+  "users": [
+    {
+      "id": "user-default",
+      "name": "Mridul",
+      "email": "mridul@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "user-1781429874755-c0sfhohxu",
+      "name": "Mridul Sharma",
+      "email": "mridulshrm9@gmail.com",
+      "password": "ppaass123"
+    },
+    {
+      "id": "user-1781433926149-pjll2ceul",
+      "name": "Mannie",
+      "email": "mannie9@gamil.com",
+      "password": "ppaass123"
+    }
+  ]
+}
