@@ -41,9 +41,7 @@ Taddaa automatically generates recurring tasks based on user preferences.
 Supported schedules:
 
 * Daily
-* Weekly
 * Monthly
-* Yearly
 
 #### Example
 
@@ -66,9 +64,7 @@ and Taddaa automatically adds it every day.
 Other examples:
 
 * Daily Exercise
-* Weekly Team Meeting
 * Monthly Bills
-* Yearly Insurance Renewal
 
 ---
 
@@ -115,12 +111,6 @@ Find my college assignments
 
 ```text
 Delete completed grocery tasks
-```
-
-#### Move Tasks
-
-```text
-Move "Bindhi" to Veg folder
 ```
 
 This creates a more natural and conversational productivity experience.
@@ -205,19 +195,21 @@ AI automatically identifies the folder and performs the requested action.
 * Node.js
 * Express.js
 
-### Database
+### Data Storage
 
-* MongoDB
+* JSON file storage, scoped per user
 
 ### AI Integration
 
-* Gemini API
-* Agentic Workflow Logic
+* Gemini 2.5 Flash API
+* ReAct agent loop: plan, call a tool, read the result, repeat (up to 6 steps per request)
+* 8 tools: list, create and search tasks; delete tasks; list and create folders; suggest a folder; create recurring rules
+* Structured JSON-line output, parsed defensively so an invalid model line is skipped
 
 ### Authentication
 
-* JWT Authentication
-* User Management
+* Sign-up and login API
+* Per-user data: each user sees only their own folders and tasks
 
 ---
 
@@ -260,6 +252,8 @@ Taddaa combines all three into a single platform.
 * AI Task Prioritization
 * Smart Reminder Engine
 * Analytics Dashboard
+* Weekly and yearly recurring tasks
+* Token-based authentication (JWT) and a hosted database
 
 ---
 
@@ -268,21 +262,3 @@ Taddaa combines all three into a single platform.
 Taddaa is designed to reduce friction between planning and execution by combining productivity tools with conversational AI.
 
 Instead of managing tasks manually, users can simply tell Taddaa what they want to do and let the platform handle the rest.
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
